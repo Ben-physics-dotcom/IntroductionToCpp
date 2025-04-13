@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/benjf/Documents/Programmierung/Projekte/IntroductionToCpp/Lectures/Introduction",
-      "program": "c:/Users/benjf/Documents/Programmierung/Projekte/IntroductionToCpp/Lectures/Introduction/build/Debug/outDebug",
+      "cwd": "c:/Users/benjf/Documents/Programmierung/Projekte/IntroductionToCpp/Lectures/FlowOfControl",
+      "program": "c:/Users/benjf/Documents/Programmierung/Projekte/IntroductionToCpp/Lectures/FlowOfControl/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
